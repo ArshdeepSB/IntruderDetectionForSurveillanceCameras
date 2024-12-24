@@ -41,3 +41,9 @@ Running the Project:
 
 Now using any IDE that you like (we are using VS Code for our project) open the project folder, and access it through a terminal, once that is done, run the following command:
 python DetectIntruder.py
+
+# Copyright Infringement Statement
+
+This work is protected under copyright law. Unauthorized use, reproduction, distribution, or modification of this material is strictly prohibited. This work may not be utilized, in whole or in part, for any organizational, commercial, or product-related purposes without prior written permission from the copyright owner.
+
+Violations of this copyright may result in legal action under applicable intellectual property laws.
